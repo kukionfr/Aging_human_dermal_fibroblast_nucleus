@@ -1,9 +1,13 @@
-# Aging_human_dermal_fibroblast_nucleus
-
-Dataset Size: 1.96GB (Download time ~10min @ 100Mbps)
+# Aging_human_dermal_fibroblast_nucleus_DAPI
 
 This image repository is for Nature Protocol paper(2020): *A robust unsupervised machine learning method to quantify the morphological heterogeneity of cells and nuclei*
 
+Dataset Size: 1.96GB (Download time ~10min @ 100Mbps)
 
-Human dermal fibroblast nucleus of various age cell lines. Nucleus is stained with DAPI.
-Each cell line has technical repeat of 2. 
+Sample Size:\
+7 Ages : 3, 29, 35, 45, 55, 85, 96\
+2 Technical repeat\
+36 Images per repeat\
+7 x 2 x 36 = 504 images total
+
+ 
