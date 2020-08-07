@@ -10,4 +10,4 @@ Sample Size:\
 36 Images per repeat\
 7 x 2 x 36 = 504 images total
 
- 
+CellProfiler segmentation: 10min with i9-10900K @4.8Ghz, CellProfiler 3.1.9, Windows 10
