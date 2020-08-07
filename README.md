@@ -10,4 +10,24 @@ Sample Size:\
 36 Images per repeat\
 7 x 2 x 36 = 504 images total
 
-CellProfiler segmentation: 10min with i9-10900K @4.8Ghz, CellProfiler 3.1.9, Windows 10
+Cell Count: 2300 cells\
+AG04054_1 = 144\
+AG04054_2 = 143\
+AG04059_1 = 213\
+AG04059_1 = 251\
+AG08904_1 = 163\
+AG08904_1 = 187\
+AG09162_1 = 100\
+AG09162_2 = 131\
+AG09558_1 = 254\
+AG09558_2 = 243\
+AG11796_1 = 137\
+AG11796_2 = 127\
+GM05565_1 = 107\
+GM05565_2 = 100
+
+Analysis time with i9-10900K @4.8Ghz, CellProfiler 3.1.9, Windows 10\
+CellProfiler segmentation: 10min\
+Boundary detection from segmented image: 5min\
+Building the model: 4sec\
+Applying the model: 10sec
